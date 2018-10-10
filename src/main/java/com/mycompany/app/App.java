@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
     // made some code comment
-    private static final String message = "Hello World!";
+    private static final String Message = "Hello World!";
 
     public App() {
         // little change
@@ -19,7 +19,7 @@ public class App
     }
 
     private final String getMessage() {
-        return message;
+        return Message;
     }
 
 }
