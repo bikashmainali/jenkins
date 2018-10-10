@@ -9,6 +9,7 @@ public class App
     private static final String message = "Hello World!";
 
     public App() {
+        // little change again
         // this code is empty because ...
     }
 
